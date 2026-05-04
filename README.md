@@ -5,7 +5,7 @@
 ## *"因为WSL存在，所以LSW必须存在"*
 
 [![License](https://img.shields.io/badge/license-OMGWeDontHaveLicense-brightgreen.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/status-f**kware-red.svg)](https://github.com/tianyuzpr/linux-subsystem-for-windows)
+[![Status](https://img.shields.io/badge/status-f**kware-red.svg)](https://github.com/tianyuzpr/lsw)
 [![Contributing](https://img.shields.io/badge/contributing-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 ## 📕 目录
