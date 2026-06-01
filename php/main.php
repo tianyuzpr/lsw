@@ -116,7 +116,7 @@ sleep 1
 
 echo "✅ 空气进程加载完成！"
 echo "请尽情使用LSW！"
-echo "PowerShell 7.6.1"
+echo "PowerShell 7.6.2"
 echo -n "PS C:\Users\$USERNAME> "
 read
 
